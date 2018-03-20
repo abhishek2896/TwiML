@@ -1,4 +1,5 @@
 # TwiML
+[![Build Status](https://travis-ci.org/Abhishek-Nagarkoti/TwiML.svg?branch=master)](https://travis-ci.org/Abhishek-Nagarkoti/TwiML)
 
 ## Installation
 
